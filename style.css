@@ -1,0 +1,29 @@
+body{
+    font-family: "Arial Narrow";
+    color: white;
+    background-color: mediumpurple;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
+.container{
+    border: solid 1px;
+    border-radius: 10px;
+    width: 350px;
+    padding-bottom: 30px;
+}
+.timer{
+
+    display: flex;
+    grid-gap: 20px;
+    background-color: rgba(0, 0, 0, 0.15);
+    padding: 0;
+    justify-content: center;
+}
+.aa{
+
+    margin-bottom: 5px;
+}
+.bb{
+    margin-top: 0;
+}
